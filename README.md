@@ -316,6 +316,9 @@ insurance-claim-prediction/
 9. 👥 **Dependents** (2.4%)
 10. 🏢 **Job Title** (2.3%)
 
+> Feature Importance
+<img src="assets/shap_feature_importance.png" alt="SHAP Feature Model Importance Plot" width="800"/>
+
 ---
 
 ## Deployment Options
